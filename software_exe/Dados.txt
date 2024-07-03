@@ -1,0 +1,26 @@
+Dados Coletados:
+Produto
+Preço
+Estoque
+
+Dado Automático:
+ID
+
+Tela 1 (formulario) - Cadastro de Produtos:
+txtProduto
+txtPreco
+txtEstoque
+btnCadastrar
+btnRelatorio
+lblMsg
+
+Tela 2 (Lista/Tabela) - Relátorios de Produtos:
+btnAlterarRegistro
+btnApagarRegistro
+
+Tela 3 (Editar) - Alterações:
+txtAlterarId
+txtAlterarProduto
+txtAlterarPreco
+txtAlterarEstoque
+btnConfirmarAlteracao
